@@ -1,0 +1,12 @@
+<?xml version = "1.0"?>
+<catalog>
+	<book id="bk101">
+		<author>Gam, Bay</author>
+		<title>XML Dev Guide</title>
+	</book>
+
+	<book id="bk102">
+		<author>Rall, Kim</author>
+		<title>Midnight Rain</title>
+	</book>
+</catalog>
